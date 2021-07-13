@@ -2,7 +2,7 @@
   "name": "produccion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diego-alvarado-escobar.github.io/weather-project",
+  "homepage": "https://diego-alvarado-escobar.github.io/proyecto-clima",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
