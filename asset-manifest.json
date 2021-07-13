@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/proyecto-clima/static/css/main.1641a4bd.chunk.css",
+    "main.js": "/proyecto-clima/static/js/main.306a775b.chunk.js",
+    "main.js.map": "/proyecto-clima/static/js/main.306a775b.chunk.js.map",
+    "runtime-main.js": "/proyecto-clima/static/js/runtime-main.926a3adc.js",
+    "runtime-main.js.map": "/proyecto-clima/static/js/runtime-main.926a3adc.js.map",
+    "static/js/2.f5f9090d.chunk.js": "/proyecto-clima/static/js/2.f5f9090d.chunk.js",
+    "static/js/2.f5f9090d.chunk.js.map": "/proyecto-clima/static/js/2.f5f9090d.chunk.js.map",
+    "static/js/3.1d1bf598.chunk.js": "/proyecto-clima/static/js/3.1d1bf598.chunk.js",
+    "static/js/3.1d1bf598.chunk.js.map": "/proyecto-clima/static/js/3.1d1bf598.chunk.js.map",
+    "index.html": "/proyecto-clima/index.html",
+    "static/css/main.1641a4bd.chunk.css.map": "/proyecto-clima/static/css/main.1641a4bd.chunk.css.map",
+    "static/js/2.f5f9090d.chunk.js.LICENSE.txt": "/proyecto-clima/static/js/2.f5f9090d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/proyecto-clima/static/media/banner.f2489f81.png",
+    "static/media/font-awesome.min.css": "/proyecto-clima/static/media/fontawesome-webfont.d9b392dd.svg",
+    "static/media/humidity.224b54eb.png": "/proyecto-clima/static/media/humidity.224b54eb.png",
+    "static/media/icon-pressure.58d9a638.png": "/proyecto-clima/static/media/icon-pressure.58d9a638.png",
+    "static/media/logo.6ce24c58.svg": "/proyecto-clima/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.926a3adc.js",
+    "static/js/2.f5f9090d.chunk.js",
+    "static/css/main.1641a4bd.chunk.css",
+    "static/js/main.306a775b.chunk.js"
+  ]
+}
