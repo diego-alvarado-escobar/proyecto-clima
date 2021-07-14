@@ -13,4 +13,4 @@ yarn-error.log*
 /.changelog
 .npm/
 yarn.lock
-assets/images
+src/assets/images
